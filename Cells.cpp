@@ -17,7 +17,7 @@ public class Cells {
 		value = val;
 	}
 	
-	public ArrayList<Integer> getList() {
+	public vector<int> getList() {
 		return nums;
 	}
 	
